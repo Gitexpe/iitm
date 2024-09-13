@@ -1,0 +1,335 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Statics 2</title>
+    <style>
+        .box1{
+            display: block;
+            border: 2px solid blue; 
+            padding: 14px;
+            background-color: yellow;
+        }
+    </style>
+</head>
+<body>
+    <h2>Week 0</h2>
+    <a class="box1" href="https://www.youtube.com/watch?v=FFQ1LY3_wTU">Video 1</a>
+    <a class="box1" href="https://www.youtube.com/watch?v=-b5yWSQ_9Sw">Video 2</a>
+    <a class="box1" href="https://www.youtube.com/watch?v=AqWajptoWP0">Video 3</a>
+    <div >additional content
+    <a class="box1" href="https://www.youtube.com/watch?v=0Ryws96sJC0">Video 1</a>
+    <a class="box1" href="https://www.youtube.com/watch?v=QvhnR4g6SKo">Video 2</a>
+    <a class="box1" href="https://www.youtube.com/watch?v=E7VhAVeKUk8">Video 3</a>
+    <a class="box1" href="https://www.youtube.com/watch?v=AngkZkkcE0w">Video 4</a>
+    <a class="box1" href="https://www.youtube.com/watch?v=Wt26Z6fnTn0">Video 5</a>
+    <a class="box1" href="https://www.youtube.com/watch?v=jvo3MBMmLgE">Video 6</a>
+    <a class="box1" href="https://www.youtube.com/watch?v=RQJ3DICglYU">Video 7</a>
+    <a class="box1" href="https://www.youtube.com/watch?v=5sjOZRtEbOI">Video 8</a>
+    <a class="box1" href="https://www.youtube.com/watch?v=E-A8dfr9zgA">Video 9</a>
+    <a class="box1" href="https://www.youtube.com/watch?v=b2bBLAxqcKM">Video 10</a>
+    <a class="box1" href="https://www.youtube.com/watch?v=MWQzYq8TBSA">Video 11</a>
+    <a class="box1" href="https://www.youtube.com/watch?v=edZs_X1YCAY">Video 12</a>
+    <a class="box1" href="https://www.youtube.com/watch?v=LDMEzJDAf7w">Video 13</a>
+    <a class="box1" href="https://www.youtube.com/watch?v=KMXY2Tq5vVU">Video 14</a>
+    <a class="box1" href="https://www.youtube.com/watch?v=s5JMtuibjfQ">Video 15</a>
+    <a class="box1" href="https://www.youtube.com/watch?v=8HzrW7m08D4">Video 16</a>
+    <a class="box1" href="https://www.youtube.com/watch?v=mzpKbSV4CpM">Video 17</a>
+    <a class="box1" href="https://www.youtube.com/watch?v=FaoiSf-Y8dM">Video 18</a>
+    <a class="box1" href="https://www.youtube.com/watch?v=n3Xv6MIzwhA">Video 19</a>
+</div>
+    <h2>Week 1</h2>
+    <a class="box1" href="https://www.youtube.com/watch?v=4a5rbPTqbOg">Video 1</a>
+    <a class="box1" href="https://www.youtube.com/watch?v=t5GR3Eq1mLI">Video 2</a>
+    <a class="box1" href="https://www.youtube.com/watch?v=1d-6FI33HmY">Video 3</a>
+    <a class="box1" href="https://www.youtube.com/watch?v=B0-W5xQa5GE">Video 4</a>
+    <a class="box1" href="https://www.youtube.com/watch?v=6eQxA6ElXOo">Video 5</a>
+    <a class="box1" href="https://www.youtube.com/watch?v=Yi5mf3fQP3k">Video 6</a>
+    <a class="box1" href="https://www.youtube.com/watch?v=0kvuT4ZwpJ0">Video 7</a>
+    <h2>Week 2</h2>
+    <a class="box1" href="https://www.youtube.com/watch?v=sgzr8rTaAcI">Video  1</a>
+    <a class="box1" href="https://www.youtube.com/watch?v=I2S7nlCBkA8">Video  2</a>
+    <a class="box1" href="https://www.youtube.com/watch?v=CyhOZjX5Ch8">Video  3</a>
+    <a class="box1" href="https://www.youtube.com/watch?v=qWnGC_Jg0Qs">Video  4</a>
+    <a class="box1" href="https://www.youtube.com/watch?v=eyPW1iX66oI">Video  5</a>
+    <a class="box1" href="https://www.youtube.com/watch?v=a0EHS19ZY0Y">Video  6</a>
+    <a class="box1" href="https://www.youtube.com/watch?v=xK4Vbtv7DFY">Video  7</a>
+    <a class="box1" href="https://www.youtube.com/watch?v=4nMkqSG9-_s">Video  8</a>
+    <a class="box1" href="https://www.youtube.com/watch?v=vQ8nsT6RH1I">Video  9</a>
+    <a class="box1" href="https://www.youtube.com/watch?v=YXaYJths2Ts">Video  10</a>
+    <a class="box1" href="https://www.youtube.com/watch?v=Ndy0KTpmJAI">Video  11</a>
+    <h2>Week 3
+    </h2>
+    <a class="box1" href="https://www.youtube.com/watch?v=7FrGkXw0OKQ">Video 1
+    </a>
+    <a class="box1" href="https://www.youtube.com/watch?v=r1-n85hdJUw">Video 2
+    </a>
+    <a class="box1" href="https://www.youtube.com/watch?v=hUidLbV0fNo">Video 3
+    </a>
+    <a class="box1" href="https://www.youtube.com/watch?v=tZs2xS6XfYg">Video 4
+    </a>
+    <a class="box1" href="https://www.youtube.com/watch?v=UoZc81wNK4I">Video 5
+    </a>
+    <a class="box1" href="https://www.youtube.com/watch?v=BtZXJohBrno">Video 6
+    </a>
+    <a class="box1" href="https://www.youtube.com/watch?v=NTGLrewi_uY">Video 7
+    </a>
+    <h2>Week 4</h2>
+    <a class="box1" href="https://www.youtube.com/watch?v=VfmiCE67QrE">Video 1</a>
+    <a class="box1" href="https://www.youtube.com/watch?v=bjQmbMOIL4Q">Video 2</a>
+    <a class="box1" href="https://www.youtube.com/watch?v=3vpKxQjm0l8">Video 3</a>
+    <a class="box1" href="https://www.youtube.com/watch?v=bEPwrTc6-m4">Video 4</a>
+    <a class="box1" href="https://www.youtube.com/watch?v=YgCBemBF3pg">Video 5</a>
+    <a class="box1" href="https://www.youtube.com/watch?v=Sr_oC-iaXIs">Video 6</a>
+    <a class="box1" href="https://www.youtube.com/watch?v=QFd8KeaY4Tk">Video 7</a>
+    <h2>Week 5</h2>
+    <a class="box1" href="https://www.youtube.com/watch?v=EJjvm7rXswU">Video 1</a>
+    <a class="box1" href="https://www.youtube.com/watch?v=cyu51WEwo7w">Video 1</a>
+    <a class="box1" href="https://www.youtube.com/watch?v=PGKH0mFlOAg">Video 1</a>
+    <a class="box1" href="https://www.youtube.com/watch?v=s_VmvOWnPWs">Video 1</a>
+    <h3>Tutorial videos</h3>
+    <a class="box1" href="https://www.youtube.com/watch?v=jNxALEU7q2w">Video 1</a>
+    <a class="box1" href="https://www.youtube.com/watch?v=c1J3W_YQPcI">Video 1</a>
+    <a class="box1" href="https://www.youtube.com/watch?v=o_WtuCPiDfY">Video 1</a>
+    <a class="box1" href="https://www.youtube.com/watch?v=MnCKTRjKzYE">Video 1</a>
+    <a class="box1" href="https://www.youtube.com/watch?v=TCU9DtD6rw0">Video 1</a>
+    <a class="box1" href="https://www.youtube.com/watch?v=0I8tmShq0uo">Video 1</a>
+    <a class="box1" href="https://www.youtube.com/watch?v=ni_hPOq42Ds">Video 1</a>
+    <a class="box1" href="">Video 1</a>
+    <a class="box1" href="">Video 1</a>
+    <a class="box1" href="">Video 1</a>
+    <a class="box1" href="">Video 1</a>
+    <a class="box1" href="">Video 1</a>
+    <a class="box1" href="">Video 1</a>
+    <a class="box1" href="">Video 1</a>
+    <a class="box1" href="">Video 1</a>
+    <a class="box1" href="">Video 1</a>
+    <a class="box1" href="">Video 1</a>
+    <a class="box1" href="">Video 1</a>
+    <a class="box1" href="">Video 1</a>
+    <a class="box1" href="">Video 1</a>
+    <a class="box1" href="">Video 1</a>
+    <a class="box1" href="">Video 1</a>
+    <a class="box1" href="">Video 1</a>
+    <a class="box1" href="">Video 1</a>
+    <a class="box1" href="">Video 1</a>
+    <a class="box1" href="">Video 1</a>
+    <a class="box1" href="">Video 1</a>
+    <a class="box1" href="">Video 1</a>
+    <a class="box1" href="">Video 1</a>
+    <a class="box1" href="">Video 1</a>
+    <a class="box1" href="">Video 1</a>
+    <a class="box1" href="">Video 1</a>
+    <a class="box1" href="">Video 1</a>
+    <a class="box1" href="">Video 1</a>
+    <a class="box1" href="">Video 1</a>
+    <a class="box1" href="">Video 1</a>
+    <a class="box1" href="">Video 1</a>
+    <a class="box1" href="">Video 1</a>
+    <a class="box1" href="">Video 1</a>
+    <a class="box1" href="">Video 1</a>
+    <a class="box1" href="">Video 1</a>
+    <a class="box1" href="">Video 1</a>
+    <a class="box1" href="">Video 1</a>
+    <a class="box1" href="">Video 1</a>
+    <a class="box1" href="">Video 1</a>
+    <a class="box1" href="">Video 1</a>
+    <a class="box1" href="">Video 1</a>
+    <a class="box1" href="">Video 1</a>
+    <a class="box1" href="">Video 1</a>
+    <a class="box1" href="">Video 1</a>
+    <a class="box1" href="">Video 1</a>
+    <a class="box1" href="">Video 1</a>
+    <a class="box1" href="">Video 1</a>
+    <a class="box1" href="">Video 1</a>
+    <a class="box1" href="">Video 1</a>
+    <a class="box1" href="">Video 1</a>
+    <a class="box1" href="">Video 1</a>
+    <a class="box1" href="">Video 1</a>
+    <a class="box1" href="">Video 1</a>
+    <a class="box1" href="">Video 1</a>
+    <a class="box1" href="">Video 1</a>
+    <a class="box1" href="">Video 1</a>
+    <a class="box1" href="">Video 1</a>
+    <a class="box1" href="">Video 1</a>
+    <a class="box1" href="">Video 1</a>
+    <a class="box1" href="">Video 1</a>
+    <a class="box1" href="">Video 1</a>
+    <a class="box1" href="">Video 1</a>
+    <a class="box1" href="">Video 1</a>
+    <a class="box1" href="">Video 1</a>
+    <a class="box1" href="">Video 1</a>
+    <a class="box1" href="">Video 1</a>
+    <a class="box1" href="">Video 1</a>
+    <a class="box1" href="">Video 1</a>
+    <a class="box1" href="">Video 1</a>
+    <a class="box1" href="">Video 1</a>
+    <a class="box1" href="">Video 1</a>
+    <a class="box1" href="">Video 1</a>
+    <a class="box1" href="">Video 1</a>
+    <a class="box1" href="">Video 1</a>
+    <a class="box1" href="">Video 1</a>
+    <a class="box1" href="">Video 1</a>
+    <a class="box1" href="">Video 1</a>
+    <a class="box1" href="">Video 1</a>
+    <a class="box1" href="">Video 1</a>
+    <a class="box1" href="">Video 1</a>
+    <a class="box1" href="">Video 1</a>
+    <a class="box1" href="">Video 1</a>
+    <a class="box1" href="">Video 1</a>
+    <a class="box1" href="">Video 1</a>
+    <a class="box1" href="">Video 1</a>
+    <a class="box1" href="">Video 1</a>
+    <a class="box1" href="">Video 1</a>
+    <a class="box1" href="">Video 1</a>
+    <a class="box1" href="">Video 1</a>
+    <a class="box1" href="">Video 1</a>
+    <a class="box1" href="">Video 1</a>
+    <a class="box1" href="">Video 1</a>
+    <a class="box1" href="">Video 1</a>
+    <a class="box1" href="">Video 1</a>
+    <a class="box1" href="">Video 1</a>
+    <a class="box1" href="">Video 1</a>
+    <a class="box1" href="">Video 1</a>
+    <a class="box1" href="">Video 1</a>
+    <a class="box1" href="">Video 1</a>
+    <a class="box1" href="">Video 1</a>
+    <a class="box1" href="">Video 1</a>
+    <a class="box1" href="">Video 1</a>
+    <a class="box1" href="">Video 1</a>
+    <a class="box1" href="">Video 1</a>
+    <a class="box1" href="">Video 1</a>
+    <a class="box1" href="">Video 1</a>
+    <a class="box1" href="">Video 1</a>
+    <a class="box1" href="">Video 1</a>
+    <a class="box1" href="">Video 1</a>
+    <a class="box1" href="">Video 1</a>
+    <a class="box1" href="">Video 1</a>
+    <a class="box1" href="">Video 1</a>
+    <a class="box1" href="">Video 1</a>
+    <a class="box1" href="">Video 1</a>
+    <a class="box1" href="">Video 1</a>
+    <a class="box1" href="">Video 1</a>
+    <a class="box1" href="">Video 1</a>
+    <a class="box1" href="">Video 1</a>
+    <a class="box1" href="">Video 1</a>
+    <a class="box1" href="">Video 1</a>
+    <a class="box1" href="">Video 1</a>
+    <a class="box1" href="">Video 1</a>
+    <a class="box1" href="">Video 1</a>
+    <a class="box1" href="">Video 1</a>
+    <a class="box1" href="">Video 1</a>
+    <a class="box1" href="">Video 1</a>
+    <a class="box1" href="">Video 1</a>
+    <a class="box1" href="">Video 1</a>
+    <a class="box1" href="">Video 1</a>
+    <a class="box1" href="">Video 1</a>
+    <a class="box1" href="">Video 1</a>
+    <a class="box1" href="">Video 1</a>
+    <a class="box1" href="">Video 1</a>
+    <a class="box1" href="">Video 1</a>
+    <a class="box1" href="">Video 1</a>
+    <a class="box1" href="">Video 1</a>
+    <a class="box1" href="">Video 1</a>
+    <a class="box1" href="">Video 1</a>
+    <a class="box1" href="">Video 1</a>
+    <a class="box1" href="">Video 1</a>
+    <a class="box1" href="">Video 1</a>
+    <a class="box1" href="">Video 1</a>
+    <a class="box1" href="">Video 1</a>
+    <a class="box1" href="">Video 1</a>
+    <a class="box1" href="">Video 1</a>
+    <a class="box1" href="">Video 1</a>
+    <a class="box1" href="">Video 1</a>
+    <a class="box1" href="">Video 1</a>
+    <a class="box1" href="">Video 1</a>
+    <a class="box1" href="">Video 1</a>
+    <a class="box1" href="">Video 1</a>
+    <a class="box1" href="">Video 1</a>
+    <a class="box1" href="">Video 1</a>
+    <a class="box1" href="">Video 1</a>
+    <a class="box1" href="">Video 1</a>
+    <a class="box1" href="">Video 1</a>
+    <a class="box1" href="">Video 1</a>
+    <a class="box1" href="">Video 1</a>
+    <a class="box1" href="">Video 1</a>
+    <a class="box1" href="">Video 1</a>
+    <a class="box1" href="">Video 1</a>
+    <a class="box1" href="">Video 1</a>
+    <a class="box1" href="">Video 1</a>
+    <a class="box1" href="">Video 1</a>
+    <a class="box1" href="">Video 1</a>
+    <a class="box1" href="">Video 1</a>
+    <a class="box1" href="">Video 1</a>
+    <a class="box1" href="">Video 1</a>
+    <a class="box1" href="">Video 1</a>
+    <a class="box1" href="">Video 1</a>
+    <a class="box1" href="">Video 1</a>
+    <a class="box1" href="">Video 1</a>
+    <a class="box1" href="">Video 1</a>
+    <a class="box1" href="">Video 1</a>
+    <a class="box1" href="">Video 1</a>
+    <a class="box1" href="">Video 1</a>
+    <a class="box1" href="">Video 1</a>
+    <a class="box1" href="">Video 1</a>
+    <a class="box1" href="">Video 1</a>
+    <a class="box1" href="">Video 1</a>
+    <a class="box1" href="">Video 1</a>
+    <a class="box1" href="">Video 1</a>
+    <a class="box1" href="">Video 1</a>
+    <a class="box1" href="">Video 1</a>
+    <a class="box1" href="">Video 1</a>
+    <a class="box1" href="">Video 1</a>
+    <a class="box1" href="">Video 1</a>
+    <a class="box1" href="">Video 1</a>
+    <a class="box1" href="">Video 1</a>
+    <a class="box1" href="">Video 1</a>
+    <a class="box1" href="">Video 1</a>
+    <a class="box1" href="">Video 1</a>
+    <a class="box1" href="">Video 1</a>
+    <a class="box1" href="">Video 1</a>
+    <a class="box1" href="">Video 1</a>
+    <a class="box1" href="">Video 1</a>
+    <a class="box1" href="">Video 1</a>
+    <a class="box1" href="">Video 1</a>
+    <a class="box1" href="">Video 1</a>
+    <a class="box1" href="">Video 1</a>
+    <a class="box1" href="">Video 1</a>
+    <a class="box1" href="">Video 1</a>
+    <a class="box1" href="">Video 1</a>
+    <a class="box1" href="">Video 1</a>
+    <a class="box1" href="">Video 1</a>
+    <a class="box1" href="">Video 1</a>
+    <a class="box1" href="">Video 1</a>
+    <a class="box1" href="">Video 1</a>
+    <a class="box1" href="">Video 1</a>
+    <a class="box1" href="">Video 1</a>
+    <a class="box1" href="">Video 1</a>
+    <a class="box1" href="">Video 1</a>
+    <a class="box1" href="">Video 1</a>
+    <a class="box1" href="">Video 1</a>
+    <a class="box1" href="">Video 1</a>
+    <a class="box1" href="">Video 1</a>
+    <a class="box1" href="">Video 1</a>
+    <a class="box1" href="">Video 1</a>
+    <a class="box1" href="">Video 1</a>
+    <a class="box1" href="">Video 1</a>
+    <a class="box1" href="">Video 1</a>
+    <a class="box1" href="">Video 1</a>
+    <a class="box1" href="">Video 1</a>
+    <a class="box1" href="">Video 1</a>
+    <a class="box1" href="">Video 1</a>
+    <a class="box1" href="">Video 1</a>
+    <a class="box1" href="">Video 1</a>
+    <a class="box1" href="">Video 1</a>
+    <a class="box1" href="">Video 1</a>
+    <a class="box1" href="">Video 1</a>
+    <a class="box1" href="">Video 1</a>
+    <a class="box1" href="">Video 1</a>
+    <a class="box1" href="">Video 1</a>
+    <a class="box1" href="">Video 1</a>
+    <a class="box1" href="">Video 1</a>
+
+</body>
+</html>
